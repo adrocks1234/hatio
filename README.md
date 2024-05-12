@@ -48,7 +48,7 @@ This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) project manag
      FOR FE
      ```
      VITE_BACKEND_URL=<>
-     VITE_ACCESS_TOKEN=<Github token>
+     VITE_TOKEN=<Github token>
      ```
 5. Start the development server:
    ```bash
